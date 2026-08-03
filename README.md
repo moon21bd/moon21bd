@@ -13,16 +13,18 @@ the front end, and enough Python to keep the pipelines honest.
 
 ---
 
-### What I've shipped
+### Systems I've built
 
-- A 9-provider payment-gateway abstraction with automatic failover and
-  dead-letter queues — transaction success rate went from **91% to 97.5%**
-- A cross-border remittance integration end to end, carrying **$2M+ monthly**
-- Redis-based duplicate-request detection that stops **~5,000 duplicate charges
-  a month** and cut chargebacks by **45%**
-- An idempotent refund pipeline that removed **40+ hours of manual work a month**
-- 100+ third-party integrations — telecom, banking, payment, utility — with
-  retry logic and full reconciliation
+| System | What it does | Scale / impact |
+|---|---|---|
+| **Cross-border recharge & wallet platform** | Recharge, bill payment and wallet for migrant communities; I own the core transaction-processing layer | 300K+ registered · 10,000+ daily active · 99.9% uptime |
+| **Multi-provider payment abstraction** | 9 payment providers behind one interface — automatic failover, exponential-backoff retry, dead-letter queues | Transaction success **91% → 97.5%** |
+| **Cross-border remittance integration** | Built end to end: cash-in, wallet funding, earning reports, transaction history | **$2M+ monthly** volume · +25% platform revenue |
+| **Duplicate-request detection** | Redis SHA-256 request fingerprinting with configurable TTL | ~5,000 duplicate charges/month prevented · chargebacks **−45%** |
+| **Automated refund pipeline** | Idempotent refunds with wallet auto-crediting | Customer complaints **−70%** · 40+ hours/month of manual work removed |
+| **Digital wallet (Laos)** | Wallet transfers, agent commissions, subscription billing, eKYC with JWE encryption | 50,000+ transactions in first quarter |
+| **Real-time quiz platform** | Timed gameplay, Redis leaderboards, queue-driven reward payouts | 5,000+ concurrent users · 99.5% uptime · zero payment failures |
+| **Third-party integration layer** | Telecom, banking, payment and utility APIs with retry logic and full reconciliation | 100+ integrations |
 
 ---
 
@@ -58,7 +60,6 @@ message says so plainly.
 #### Products & tooling
 | | |
 |---|---|
-| [brighton-education](https://github.com/moon21bd/brighton-education) | **My own product** — [brightonielts.com](https://brightonielts.com). Timed exam engine, resumable attempts, device binding. *Laravel 12 + React* |
 | [support-ticket-management-system](https://github.com/moon21bd/support-ticket-management-system) | Scheduled SLA engine that escalates and reassigns on breach, per-transition audit timeline. *Laravel + Vue* |
 | [tournament-competition-engine](https://github.com/moon21bd/tournament-competition-engine) | Absolute per-question windows so every player answers in the same wall-clock slot. *Laravel* |
 | [laravel-crud-scaffold-toolkit](https://github.com/moon21bd/laravel-crud-scaffold-toolkit) | One field definition feeds model, migration, request, controller, tests and Vue views. *Laravel* |
