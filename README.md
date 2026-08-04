@@ -116,9 +116,6 @@ needs.
 
 <div align="center">
 
-![Moon's GitHub stats](https://github-readme-stats.demolab.com/api?username=moon21bd&show_icons=true&theme=tokyonight&hide_border=true&hide=contribs)
-![Top languages](https://github-readme-stats.demolab.com/api/top-langs/?username=moon21bd&layout=compact&theme=tokyonight&hide_border=true&hide=html,css)
-
 ![Streak stats](https://streak-stats.demolab.com/?user=moon21bd&theme=tokyonight&hide_border=true)
 
 </div>
