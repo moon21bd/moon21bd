@@ -9,7 +9,25 @@ cross-border recharge and wallet platform (300K+ registered users, 10,000+
 daily active). Mostly **PHP/Laravel** and **Node.js**, with React and Vue on
 the front end, and enough Python to keep the pipelines honest.
 
-[LinkedIn](https://linkedin.com/in/moon21) · rhmoon21@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/moon21)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rhmoon21@gmail.com)
+[![Open to work](https://img.shields.io/badge/Open%20to-Senior%20Backend%20%2F%20Tech%20Lead-2ea44f?style=for-the-badge)](https://linkedin.com/in/moon21)
+
+#### Stack
+
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ---
 
@@ -84,6 +102,17 @@ a sweep looking for them, not an alert waiting for them.
 **Write down why, not what.** The `ARCHITECTURE.md` in each repo explains the
 trade-off that was accepted. Six months later that's the only part anyone
 needs.
+
+---
+
+### GitHub activity
+
+![Moon's GitHub stats](https://github-readme-stats.vercel.app/api?username=moon21bd&show_icons=true&count_private=true&theme=tokyonight&hide=contribs)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moon21bd&layout=compact&theme=tokyonight&hide=html,css)
+
+<a href="https://github.com/moon21bd">
+  <img src="https://komarev.com/ghpvc/?username=moon21bd&label=Profile%20views&color=2ea44f&style=flat" alt="Profile views" />
+</a>
 
 ---
 
