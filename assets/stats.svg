@@ -1,0 +1,35 @@
+<svg width="830" height="130" viewBox="0 0 830 130" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1a1b3a"/>
+      <stop offset="100%" stop-color="#2d1b4e"/>
+    </linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="829" height="129" rx="14" fill="url(#bg)" stroke="#3a3a5c"/>
+  
+        
+        <text x="83" y="62" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="30" font-weight="700" fill="#8f9dff">0</text>
+        <text x="83" y="92" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#a9a9c7">Profile Views</text>
+      
+
+        <line x1="166" y1="24" x2="166" y2="106" stroke="#3a3a5c" stroke-width="1"/>
+        <text x="249" y="62" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="30" font-weight="700" fill="#8f9dff">4</text>
+        <text x="249" y="92" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#a9a9c7">Followers</text>
+      
+
+        <line x1="332" y1="24" x2="332" y2="106" stroke="#3a3a5c" stroke-width="1"/>
+        <text x="415" y="62" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="30" font-weight="700" fill="#8f9dff">111</text>
+        <text x="415" y="92" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#a9a9c7">Total Contributions</text>
+      
+
+        <line x1="498" y1="24" x2="498" y2="106" stroke="#3a3a5c" stroke-width="1"/>
+        <text x="581" y="62" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="30" font-weight="700" fill="#8f9dff">0</text>
+        <text x="581" y="92" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#a9a9c7">Current Streak</text>
+      
+
+        <line x1="664" y1="24" x2="664" y2="106" stroke="#3a3a5c" stroke-width="1"/>
+        <text x="747" y="62" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="30" font-weight="700" fill="#8f9dff">2</text>
+        <text x="747" y="92" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#a9a9c7">Longest Streak</text>
+      
+  <text x="816" y="120" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="9" fill="#5a5a7c">updated 2026-08-04</text>
+</svg>
