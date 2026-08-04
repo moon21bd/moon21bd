@@ -9,11 +9,11 @@
 
 </div>
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moon21bd/moon21bd/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/moon21bd/moon21bd/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/moon21bd/moon21bd/output/github-contribution-grid-snake.svg" />
-</picture>
+</picture> -->
 
 ## Raqibul Hasan Moon
 
@@ -26,7 +26,7 @@ cross-border recharge and wallet platform (300K+ registered users, 10,000+
 daily active). Mostly **PHP/Laravel** and **Node.js**, with React and Vue on
 the front end, and enough Python to keep the pipelines honest.
 
-🌱 Currently picking up: **Go**, **Kubernetes** — outside production so far, learning in side projects.
+🌱 Currently picking up: **AI/ML**, **LLM** — outside production so far, learning in side projects.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/moon21)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rhmoon21@gmail.com)
