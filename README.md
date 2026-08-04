@@ -1,4 +1,6 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=180&section=header&text=Raqibul%20Hasan%20Moon&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Backend%20Engineer%20%E2%80%94%20Payments%2C%20Fintech%20%26%20Telecom&descAlignY=58&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=180&section=header&text=Raqibul%20Hasan%20Moon&fontSize=42&fontColor=ffffff&fontAlignY=45)
+
+<p align="center">Senior Backend Engineer — Payments, Fintech &amp; Telecom</p>
 
 <div align="center">
 
@@ -6,6 +8,12 @@
 ![Followers](https://img.shields.io/github/followers/moon21bd?label=Followers&style=flat-square&color=667eea)
 
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moon21bd/moon21bd/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/moon21bd/moon21bd/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/moon21bd/moon21bd/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ## Raqibul Hasan Moon
 
@@ -18,13 +26,15 @@ cross-border recharge and wallet platform (300K+ registered users, 10,000+
 daily active). Mostly **PHP/Laravel** and **Node.js**, with React and Vue on
 the front end, and enough Python to keep the pipelines honest.
 
+🌱 Currently picking up: **Go**, **Kubernetes** — outside production so far, learning in side projects.
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/moon21)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rhmoon21@gmail.com)
 [![Open to work](https://img.shields.io/badge/Open%20to-Senior%20Backend%20%2F%20Tech%20Lead-2ea44f?style=for-the-badge)](https://linkedin.com/in/moon21)
 
 #### Stack
 
-![Skills](https://skillicons.dev/icons?i=php,laravel,nodejs,express,js,ts,react,vue,mysql,redis,docker,aws,py&theme=dark)
+![Skills](https://skillicons.dev/icons?i=php,laravel,nodejs,express,nestjs,nextjs,js,ts,react,vue,graphql,mysql,redis,docker,aws,git,py&theme=dark)
 
 ---
 
@@ -106,8 +116,8 @@ needs.
 
 <div align="center">
 
-![Moon's GitHub stats](https://github-readme-stats.vercel.app/api?username=moon21bd&show_icons=true&theme=tokyonight&hide_border=true&hide=contribs)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moon21bd&layout=compact&theme=tokyonight&hide_border=true&hide=html,css)
+![Moon's GitHub stats](https://github-readme-stats.demolab.com/api?username=moon21bd&show_icons=true&theme=tokyonight&hide_border=true&hide=contribs)
+![Top languages](https://github-readme-stats.demolab.com/api/top-langs/?username=moon21bd&layout=compact&theme=tokyonight&hide_border=true&hide=html,css)
 
 ![Streak stats](https://streak-stats.demolab.com/?user=moon21bd&theme=tokyonight&hide_border=true)
 
