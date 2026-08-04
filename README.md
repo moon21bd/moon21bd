@@ -4,15 +4,16 @@
 
 <div align="center">
 
-![Stats](https://raw.githubusercontent.com/moon21bd/moon21bd/main/assets/stats.svg)
+![Profile views](https://komarev.com/ghpvc/?username=moon21bd&label=Profile%20views&color=667eea&style=flat-square)
+![Followers](https://img.shields.io/github/followers/moon21bd?label=Followers&style=flat-square&color=667eea)
 
 </div>
 
-<!-- <picture>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moon21bd/moon21bd/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/moon21bd/moon21bd/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/moon21bd/moon21bd/output/github-contribution-grid-snake.svg" />
-</picture> -->
+</picture>
 
 ## Raqibul Hasan Moon
 
@@ -33,7 +34,25 @@ the front end, and enough Python to keep the pipelines honest.
 
 #### Stack
 
-![Skills](https://skillicons.dev/icons?i=php,laravel,nodejs,express,nestjs,nextjs,js,ts,react,vue,graphql,mysql,redis,docker,aws,git,py&theme=dark)
+<p>
+<a href="https://www.php.net/" target="_blank"><img src="https://skillicons.dev/icons?i=php" height="45" alt="PHP" /></a>
+<a href="https://laravel.com/" target="_blank"><img src="https://skillicons.dev/icons?i=laravel" height="45" alt="Laravel" /></a>
+<a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="Node.js" /></a>
+<a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express" height="45" alt="Express" /></a>
+<a href="https://nestjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=nestjs" height="45" alt="NestJS" /></a>
+<a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" height="45" alt="Next.js" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" height="45" alt="JavaScript" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" height="45" alt="TypeScript" /></a>
+<a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" height="45" alt="React" /></a>
+<a href="https://vuejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=vue" height="45" alt="Vue.js" /></a>
+<a href="https://graphql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=graphql" height="45" alt="GraphQL" /></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" height="45" alt="MySQL" /></a>
+<a href="https://redis.io/" target="_blank"><img src="https://skillicons.dev/icons?i=redis" height="45" alt="Redis" /></a>
+<a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" height="45" alt="Docker" /></a>
+<a href="https://aws.amazon.com/" target="_blank"><img src="https://skillicons.dev/icons?i=aws" height="45" alt="AWS" /></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" height="45" alt="Git" /></a>
+<a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=py" height="45" alt="Python" /></a>
+</p>
 
 ---
 
@@ -108,6 +127,16 @@ a sweep looking for them, not an alert waiting for them.
 **Write down why, not what.** The `ARCHITECTURE.md` in each repo explains the
 trade-off that was accepted. Six months later that's the only part anyone
 needs.
+
+---
+
+### GitHub activity
+
+<div align="center">
+
+![Streak stats](https://streak-stats.demolab.com/?user=moon21bd&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 

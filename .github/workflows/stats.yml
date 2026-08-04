@@ -1,8 +1,6 @@
-name: generate stats
+name: generate stats (disabled — not used by README, kept only in case it's wanted later)
 
 on:
-  schedule:
-    - cron: "0 */6 * * *"   # every 6 hours
   workflow_dispatch:
 
 permissions:
