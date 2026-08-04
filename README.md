@@ -1,3 +1,12 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=180&section=header&text=Raqibul%20Hasan%20Moon&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Backend%20Engineer%20%E2%80%94%20Payments%2C%20Fintech%20%26%20Telecom&descAlignY=58&descSize=18)
+
+<div align="center">
+
+![Profile views](https://komarev.com/ghpvc/?username=moon21bd&label=Profile%20views&color=667eea&style=flat-square)
+![Followers](https://img.shields.io/github/followers/moon21bd?label=Followers&style=flat-square&color=667eea)
+
+</div>
+
 ## Raqibul Hasan Moon
 
 Senior Software Engineer, 10 years, Dhaka. Backend systems for payments,
@@ -15,19 +24,7 @@ the front end, and enough Python to keep the pipelines honest.
 
 #### Stack
 
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Skills](https://skillicons.dev/icons?i=php,laravel,nodejs,express,js,ts,react,vue,mysql,redis,docker,aws,py&theme=dark)
 
 ---
 
@@ -107,13 +104,17 @@ needs.
 
 ### GitHub activity
 
-![Moon's GitHub stats](https://github-readme-stats.vercel.app/api?username=moon21bd&show_icons=true&count_private=true&theme=tokyonight&hide=contribs)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moon21bd&layout=compact&theme=tokyonight&hide=html,css)
+<div align="center">
 
-<a href="https://github.com/moon21bd">
-  <img src="https://komarev.com/ghpvc/?username=moon21bd&label=Profile%20views&color=2ea44f&style=flat" alt="Profile views" />
-</a>
+![Moon's GitHub stats](https://github-readme-stats.vercel.app/api?username=moon21bd&show_icons=true&theme=tokyonight&hide_border=true&hide=contribs)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moon21bd&layout=compact&theme=tokyonight&hide_border=true&hide=html,css)
+
+![Streak stats](https://streak-stats.demolab.com/?user=moon21bd&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
 *Open to senior backend and technical lead roles — remote or Dhaka.*
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=100&section=footer)
