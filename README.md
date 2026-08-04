@@ -4,8 +4,7 @@
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=moon21bd&label=Profile%20views&color=667eea&style=flat-square)
-![Followers](https://img.shields.io/github/followers/moon21bd?label=Followers&style=flat-square&color=667eea)
+![Stats](https://raw.githubusercontent.com/moon21bd/moon21bd/main/assets/stats.svg)
 
 </div>
 
@@ -109,16 +108,6 @@ a sweep looking for them, not an alert waiting for them.
 **Write down why, not what.** The `ARCHITECTURE.md` in each repo explains the
 trade-off that was accepted. Six months later that's the only part anyone
 needs.
-
----
-
-### GitHub activity
-
-<div align="center">
-
-![Streak stats](https://streak-stats.demolab.com/?user=moon21bd&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
