@@ -1,6 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=180&section=header&text=Raqibul%20Hasan%20Moon&fontSize=42&fontColor=ffffff&fontAlignY=45)
 
-<p align="center">Engineering Leader · Systems Architect · Distributed Platforms &amp; Core Infrastructure</p>
+<p align="center">Principal Backend Engineer &amp; Tech Manager · Telecom &amp; ISP Infrastructure · Fintech Rails · Building for Resilience</p>
 
 <div align="center">
 
@@ -17,7 +17,7 @@
 
 ## Raqibul Hasan Moon
 
-Tech Lead & Solutions Architect with 10+ years of engineering experience across High-Throughput Fintech, Telecom, ISP, and Distributed Infrastructure.
+Principal Backend Engineer & Technology Manager with deep engineering experience architecting mission-critical platforms across Telecom, ISP, and High-Throughput Fintech.
 
 I design and lead resilient, mission-critical systems — where idempotency guarantees zero double-charging, automated reconciliation hunts down silent failures, and sub-second failovers protect platform SLA. Passionate about empowering engineering teams, establishing clean architecture patterns, and turning complex domain requirements into rock-solid software.
 
@@ -27,7 +27,7 @@ Primary toolchain: **Node.js, PHP/Laravel, Microservices, and Event-Driven Queue
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/moon21)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rhmoon21@gmail.com)
-[![Role](https://img.shields.io/badge/Engineering%20Leadership-Tech%20Lead%20%2F%20Manager-667eea?style=for-the-badge)](https://linkedin.com/in/moon21)
+[![Role](https://img.shields.io/badge/Leadership-Principal%20Engineer%20%2F%20Tech%20Manager-667eea?style=for-the-badge)](https://linkedin.com/in/moon21)
 
 #### Stack
 
