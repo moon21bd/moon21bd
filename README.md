@@ -1,6 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=180&section=header&text=Raqibul%20Hasan%20Moon&fontSize=42&fontColor=ffffff&fontAlignY=45)
 
-<p align="center">Senior Backend Engineer — Payments, Fintech &amp; Telecom</p>
+<p align="center">Engineering Leader · Systems Architect · Distributed Platforms &amp; Core Infrastructure</p>
 
 <div align="center">
 
@@ -17,20 +17,17 @@
 
 ## Raqibul Hasan Moon
 
-Senior Software Engineer, 10 years, Dhaka. Backend systems for payments,
-telecom and fintech — the kind where a duplicated request costs money and a
-missed callback becomes a support ticket.
+Tech Lead & Solutions Architect with 10+ years of engineering experience across High-Throughput Fintech, Telecom, ISP, and Distributed Infrastructure.
 
-Currently at Dotlines, working on the multi-provider payment layer behind a
-cross-border recharge and wallet platform (300K+ registered users, 10,000+
-daily active). Mostly **PHP/Laravel** and **Node.js**, with React and Vue on
-the front end, and enough Python to keep the pipelines honest.
+I design and lead resilient, mission-critical systems — where idempotency guarantees zero double-charging, automated reconciliation hunts down silent failures, and sub-second failovers protect platform SLA. Passionate about empowering engineering teams, establishing clean architecture patterns, and turning complex domain requirements into rock-solid software.
 
-🌱 Currently picking up: **AI/ML**, **LLM** — outside production so far, learning in side projects.
+Primary toolchain: **Node.js, PHP/Laravel, Microservices, and Event-Driven Queues**, paired with modern web frontends (React/Vue) and intelligent workflows (AI/LLM system integration).
+
+🌱 Active focus: **High-availability Distributed Architectures, Telecom/ISP Systems & AI-augmented Engineering**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/moon21)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rhmoon21@gmail.com)
-[![Open to work](https://img.shields.io/badge/Open%20to-Senior%20Backend%20%2F%20Tech%20Lead-2ea44f?style=for-the-badge)](https://linkedin.com/in/moon21)
+[![Role](https://img.shields.io/badge/Engineering%20Leadership-Tech%20Lead%20%2F%20Manager-667eea?style=for-the-badge)](https://linkedin.com/in/moon21)
 
 #### Stack
 
@@ -140,6 +137,6 @@ needs.
 
 ---
 
-*Open to senior backend and technical lead roles — remote or Dhaka.*
+*Leading teams to build fault-tolerant, scalable, and beautifully engineered systems.*
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=100&section=footer)
