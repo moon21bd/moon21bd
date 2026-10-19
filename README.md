@@ -53,6 +53,17 @@ Primary toolchain: **Node.js, PHP/Laravel, Microservices, and Event-Driven Queue
 
 ---
 
+### ⭐ Flagship work
+
+| | |
+|---|---|
+| 🔐 **[secure-modular-api-gateway](https://github.com/moon21bd/secure-modular-api-gateway)** | Production API gateway I owned for four years (460+ commits). JWE-encrypted payloads with per-client keys, JWS auth, attribute-level RBAC, 20+ domain modules behind one middleware chain. *Node/Express* |
+| 🔁 **[multi-provider-order-orchestrator](https://github.com/moon21bd/multi-provider-order-orchestrator)** | The transaction core behind it: priority failover across providers, idempotent references, and webhook re-verification, because a callback is a hint, not a fact. *Lumen/PHP* |
+
+Together these are one flow: a request comes in **securely** through the gateway, then gets **delivered reliably** by the orchestrator.
+
+---
+
 ### Systems I've built
 
 | System | What it does | Scale / impact |
@@ -92,7 +103,7 @@ message says so plainly.
 | | |
 |---|---|
 | [multi-mode-request-api](https://github.com/moon21bd/multi-mode-request-api) | One pipeline as sync / async-callback / sandbox; duplicate suppression via a single atomic `SET NX EX`. *Node/Express + Sequelize* |
-| [modular-domain-composer](https://github.com/moon21bd/modular-domain-composer) | Modular-monolith API gateway — JWE payloads with per-client keys, attribute-level RBAC. *Node/Express* |
+| [secure-modular-api-gateway](https://github.com/moon21bd/secure-modular-api-gateway) | Modular-monolith API gateway — JWE payloads with per-client keys, attribute-level RBAC. *Node/Express* |
 | [iot-telemetry-platform](https://github.com/moon21bd/iot-telemetry-platform) | Device telemetry — dual ingestion paths, archive-before-parse, replayable backlog, rebuildable rollups. *Laravel* |
 | [scheduled-export-pipeline](https://github.com/moon21bd/scheduled-export-pipeline) | Multi-server export — pre-flight checks, correct CSV quoting, idempotent backfill. *Bash + MySQL + SMB* |
 | [multi-tenant-commerce-api](https://github.com/moon21bd/multi-tenant-commerce-api) | Tenancy as middleware, so scoping can't be omitted by a forgotten filter. *Laravel* |
