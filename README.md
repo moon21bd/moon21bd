@@ -57,10 +57,11 @@ Primary toolchain: **Node.js, PHP/Laravel, Microservices, and Event-Driven Queue
 
 | | |
 |---|---|
+| 🚀 **[secure-transaction-platform](https://github.com/moon21bd/secure-transaction-platform)** | The two systems below, combined into one runnable demo: `make up && make demo` breaks providers on purpose and checks that nothing is double-charged, lost or trusted blindly. *Node + PHP, CI-tested* |
 | 🔐 **[secure-modular-api-gateway](https://github.com/moon21bd/secure-modular-api-gateway)** | Production API gateway I owned for four years (460+ commits). JWE-encrypted payloads with per-client keys, JWS auth, attribute-level RBAC, 20+ domain modules behind one middleware chain. *Node/Express* |
 | 🔁 **[multi-provider-order-orchestrator](https://github.com/moon21bd/multi-provider-order-orchestrator)** | The transaction core behind it: priority failover across providers, idempotent references, and webhook re-verification, because a callback is a hint, not a fact. *Lumen/PHP* |
 
-Together these are one flow: a request comes in **securely** through the gateway, then gets **delivered reliably** by the orchestrator.
+The gateway and orchestrator are one flow: a request comes in **securely**, then gets **delivered reliably**.
 
 ---
 
